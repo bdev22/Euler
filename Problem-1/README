@@ -1,0 +1,7 @@
+To compile use 
+
+g++ -Wall -o problem1 problem1.cpp
+
+and to run
+
+./problem1
